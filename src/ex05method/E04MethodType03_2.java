@@ -3,7 +3,7 @@ package ex05method;
 import java.util.Scanner;
 
 public class E04MethodType03_2 {
-
+/*호ㅗㅓㅗㅓㅗㅓ */
 	public static void main(String[] args) {
 		/*
 		연습문제] 사용자로부터 2~9사이의 숫자중 2개를 입력받아 이에 해당하는 구구단을 출력하는 메서드를 작성하시오. 무조건 첫번째 입력받는수가 작아야한다.
