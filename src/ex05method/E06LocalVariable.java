@@ -7,7 +7,6 @@ package ex05method;
  -기본자료형은 입구가 하나만 있는 컵과같은 형태이며, '선입후출'의 특성을 가진다.
  또한 stack은 CPU가 메모리의 생성 및 소멸을 주관한다.
  */
-지역변수 
 public class E06LocalVariable {
 
 	public static void main(String[] args) {
